@@ -1,0 +1,4 @@
+0. Square d x d matrices where 3 <= d <=9
+1. Arrays within an array
+2. greet()
+3. init(), draw(), move(), won()
